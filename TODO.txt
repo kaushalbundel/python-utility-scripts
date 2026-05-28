@@ -1,0 +1,1 @@
+- Show proper response when the user does CTRL + c (keyboard interrupt), instead of the msg already shown.
